@@ -4,19 +4,52 @@ created: '2020-02-01T01:06:57.950Z'
 modified: '2020-02-01T02:57:35.853Z'
 ---
 
-# Web Systems and Technologies Notes
+# Web Systems and Technologies
+
+## Internet
+
+### History
+
+Started with ARPAnet [1960s] which was created at the height of the cold war
+
+### Design Goals
+
+* Survivable
+
+* Simple
+
+* Scalable
+
+* Selectable - Able to find resource that you want (URIs etc)
+
+### Benefits
+* Accessibility
+* De-Centralized
+* Cheap
+* Services Available
+
+<br>
+
+## WWW
+
+Created by **Tim Berners Lee** in **1989**
+
+Not the same thing as the internet
+
+<br>
 
 ## Web Browser History
+
 Mosaic -> Netscape Navigator -> Internet Explorer -> Mozilla Firefox -> Chrome
 
-#### Mosaic (NCSA Uni of Illinois)
+#### Mosaic (NCSA Uni of Illinois) [1993]
 
 * Supported various protocols (FTP, NNTP) in addition to HTTP
 * Supported the display of text and images on the same page
 
 #### Netscape Navigator 1.0 (Released 15 Dec 1994)
 
-* Displayed data when while the data was still being loaded by the browser
+* Displayed data while the data was still being loaded by the browser
 * Had all the functionality of Mosaic that people liked
 
 <hr>
@@ -43,6 +76,35 @@ Development of Netscape ceases
 <br>
 
 ## HTML
+
+### HTML5
+
+#### Goals
+
+* Improve the native web [Make rich interactive web pages with plugins]
+
+* Do more with less code [Some client side validation built in]
+
+  ```html
+  <input type = "password" minlength="8" required>
+  ```
+
+* Realize the semantic web [Machine understanding what each part of website means]
+
+#### Semantic Tags
+
+> Makes a page more understandable by the browser and accessible to users
+
+```html
+<header></header>
+<nav></nav>
+<main></main>
+<figure></figure>
+<figcaption></figcaption>
+<footer></footer>
+```
+
+#### Declaration
 
 `!DOCTYPE html`
 
@@ -118,6 +180,14 @@ var o = true;
 ### On Efficient Loading of JS
 
 [Javascript-async-defer](https://flaviocopes.com/javascript-async-defer/)
+
+### Note on Cross-Origin
+
+```html
+<script src = "https://odirony.com/hello.php" crossorigin="anonymous"></script>
+```
+
+This will result in User Credentials not being sent, unless the request comes from the same origin as the web server
 
 ### Document Object Model
 
@@ -241,5 +311,5 @@ var fruits2 = JSON.parse(fruitsJSON);
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwOTk0MTY1XX0=
+eyJoaXN0b3J5IjpbLTk1NTk2MDQ4NV19
 -->
