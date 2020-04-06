@@ -297,7 +297,6 @@ var fruits2 = JSON.parse(fruitsJSON);
 
 
 
-
  
 
 
@@ -311,5 +310,5 @@ var fruits2 = JSON.parse(fruitsJSON);
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTk2MDQ4NV19
+eyJoaXN0b3J5IjpbLTEzNjYwMTU5OTEsLTk1NTk2MDQ4NV19
 -->
