@@ -48,5 +48,5 @@ Occurs when:</p>
 <p><img src="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzE4Mzg0N119
+eyJoaXN0b3J5IjpbNTYyODA0NjYzXX0=
 -->
