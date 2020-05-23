@@ -11,6 +11,10 @@
 **Caching**
 > Copying information into a faster storage medium eg. from hard disk to main memory (RAM)
 
+> Every layer in the memory serves as a cache for the layer beneath it
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTQxNzI0NCwtNTk4ODc1MDMyXX0=
+eyJoaXN0b3J5IjpbMTk4MTY4Nzg2MSwtNTk4ODc1MDMyXX0=
 -->
