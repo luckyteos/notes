@@ -33,6 +33,7 @@ Occurs when:
 
 
 **User Mode/Kernel Mode**
+
 ![enter image description here](https://gabrieletolomei.files.wordpress.com/2013/10/memory_layout.jpg)
 
 **Heap:** Memory space in process to allow for dynamic allocation of memory. By allocating memory from the heap there is no need to create a new mapping in the page table
@@ -67,6 +68,6 @@ Occurs when:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1ODQ4Mzc1LC05Njc3NzE4NjcsLTE5OT
-Y5OTQwMDksNDA4NzM4MDY4LC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbMTIxNDE4NDA3MywtOTY3NzcxODY3LC0xOT
+k2OTk0MDA5LDQwODczODA2OCwtNTk4ODc1MDMyXX0=
 -->
