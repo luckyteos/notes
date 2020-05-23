@@ -9,7 +9,8 @@
 **Memory Hierarchy**
 ![enter image description here](https://images.computerhistory.org/revonline/images/500004956.jpg?w=400)
 **Caching**
-> Copying information into a faster storage medium
+> Copying information into a faster storage medium eg. from hard disk to main memory (RAM)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjQ4Njc3MiwtNTk4ODc1MDMyXX0=
+eyJoaXN0b3J5IjpbMTM0OTQxNzI0NCwtNTk4ODc1MDMyXX0=
 -->
