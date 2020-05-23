@@ -52,11 +52,15 @@ Occurs when:
 **Handle Table:** Maps handles in user space to object in kernel space. 
 ![enter image description here](https://qph.fs.quoracdn.net/main-qimg-0fca3f679c15b5420dc9b78088aa218a)
 
-**Handle Inheritance:** Child processes can inherit pa
+**Handle Inheritance:** Child processes can inherit parent process handle
+
+**Handle Duplication:** Specifically ask that handle from another process be copied into your process's handle table
 
 **Reference Count:** Keeps count of whether an object is being "used" or referenced. If the reference count of an object is 0, OS may perform garbage collection of the object to free up memory
+
+**Thread:** Basic scheduleable
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIwNjgzNjQsLTk2Nzc3MTg2NywtMT
-k5Njk5NDAwOSw0MDg3MzgwNjgsLTU5ODg3NTAzMl19
+eyJoaXN0b3J5IjpbMTU3ODkwNzkwNCwtOTY3NzcxODY3LC0xOT
+k2OTk0MDA5LDQwODczODA2OCwtNTk4ODc1MDMyXX0=
 -->
