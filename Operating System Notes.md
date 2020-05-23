@@ -38,8 +38,10 @@ Occurs when:
 
 **Copy-On-Write:** Duplication of memory space when a process attempts to write to a read only page referenced by multiple processes, for example a shared DLL
 
-**Shared Memory:** Processes are aware that they are sharing the memory 
+**Shared Memory:** Processes are aware that they are sharing the memory
+
+##  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY5OTQwMDksNDA4NzM4MDY4LC01OT
-g4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbLTQ5NjgxOTE1OSwtMTk5Njk5NDAwOSw0MD
+g3MzgwNjgsLTU5ODg3NTAzMl19
 -->
