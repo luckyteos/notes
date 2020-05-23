@@ -16,8 +16,10 @@
 **Virtual Memory:** Concept of each process having their own separate memory space, which is independent of where the memory allocated for the process is actually stored on the main memory (RAM)
 **Page:** Smallest unit of data in memory. Can be given privileges like No permission/R/RW
 
+**User Mode/Kernel Mode**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzI4NjI4Miw0MDg3MzgwNjgsLTU5OD
+eyJoaXN0b3J5IjpbLTcwMDE0NzgxNyw0MDg3MzgwNjgsLTU5OD
 g3NTAzMl19
 -->
