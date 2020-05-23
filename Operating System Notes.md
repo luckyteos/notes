@@ -60,10 +60,10 @@ Occurs when:
 
 **Thread:** Basic scheduable system entity. A process should contain at least one thread. A process does not run, a thread is what executes the instructions in a program
 
-
+### Process and Threa
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ2ODM4MDIsLTk2Nzc3MTg2NywtMT
-k5Njk5NDAwOSw0MDg3MzgwNjgsLTU5ODg3NTAzMl19
+eyJoaXN0b3J5IjpbMTc0MzE4NzM4NSwtOTY3NzcxODY3LC0xOT
+k2OTk0MDA5LDQwODczODA2OCwtNTk4ODc1MDMyXX0=
 -->
