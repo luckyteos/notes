@@ -13,8 +13,8 @@
 
 > Every layer in the memory serves as a cache for the layer beneath it
 
-**Virtual Memory:** Concept of each process having their own memory space, which is independent of where the memory is actually being allocated in the mai
+**Virtual Memory:** Concept of each process having their own separate memory space, which is independent of where the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNTA1MTczLC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbMzc3NjYzMjM3LC01OTg4NzUwMzJdfQ==
 -->
