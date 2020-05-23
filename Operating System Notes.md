@@ -40,8 +40,10 @@ Occurs when:
 
 **Shared Memory:** Processes are aware that they are sharing the memory
 
-##  
+## Processes and Threads
+**Process:** Management unit. Sort of like a container containing items
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjgxOTE1OSwtMTk5Njk5NDAwOSw0MD
-g3MzgwNjgsLTU5ODg3NTAzMl19
+eyJoaXN0b3J5IjpbLTEyOTE1Mzc4NjAsLTE5OTY5OTQwMDksND
+A4NzM4MDY4LC01OTg4NzUwMzJdfQ==
 -->
