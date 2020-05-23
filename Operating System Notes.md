@@ -58,9 +58,12 @@ Occurs when:
 
 **Reference Count:** Keeps count of whether an object is being "used" or referenced. If the reference count of an object is 0, OS may perform garbage collection of the object to free up memory
 
-**Thread:** Basic scheduleable
+**Thread:** Basic scheduable system entity. A process should contain at least one thread. A process does not run, a thread is what executes the instructions in a program
+
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODkwNzkwNCwtOTY3NzcxODY3LC0xOT
-k2OTk0MDA5LDQwODczODA2OCwtNTk4ODc1MDMyXX0=
+eyJoaXN0b3J5IjpbLTE2MzQ2ODM4MDIsLTk2Nzc3MTg2NywtMT
+k5Njk5NDAwOSw0MDg3MzgwNjgsLTU5ODg3NTAzMl19
 -->
