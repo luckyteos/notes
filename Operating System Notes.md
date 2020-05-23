@@ -52,3 +52,6 @@ Occurs when:</p>
 <h3 id="whats-common---process-and-thread">What’s common - Process and Thread</h3>
 <p><img src="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg" alt="enter image description here"></p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcyODgxMjQyMV19
+-->
