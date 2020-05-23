@@ -1,10 +1,3 @@
----
-
-
----
-
-<hr>
-<hr>
 <h2 id="introduction">Introduction</h2>
 <p><strong>Basic Operation of a computer</strong><br>
 <img src="https://pxt.azureedge.net/blob/e644eb8aa2a44b1732aca811f598ab695b43420a/static/courses/csintro/algorithms/inputs-process-outputs.png" alt="enter image description here"></p>
