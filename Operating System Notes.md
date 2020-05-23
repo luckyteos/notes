@@ -14,8 +14,10 @@
 > Every layer in the memory serves as a cache for the layer beneath it
 
 **Virtual Memory:** Concept of each process having their own separate memory space, which is independent of where the memory allocated for the process is actually stored on the main memory (RAM)
-**Page:** 
+**Page:** Smallest unit of data in memory. Can be given privileges like No permission/R/RW
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NzM4MDY4LC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbMTMzMzI4NjI4Miw0MDg3MzgwNjgsLTU5OD
+g3NTAzMl19
 -->
