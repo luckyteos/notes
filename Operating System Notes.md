@@ -15,7 +15,8 @@
 
 **Virtual Memory:** Concept of each process having their own separate memory space, which is independent of where the memory allocated for the process is actually stored on the main memory (RAM)
 **Page:** Smallest unit of data in memory. Can be given privileges like No permission/R/RW
-**Page Table:** 
+**Page Table:** Contains the mappings of virtual addresses used in a process, to the actual addresses used in the main memory
+> Ever
 **Swapping:** Taking memory from stagnant processes, store them maybe in the hard disk, and giving the freed memory space to processes that require memory
 
 
@@ -23,6 +24,6 @@
 ![enter image description here](https://gabrieletolomei.files.wordpress.com/2013/10/memory_layout.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUyNzIwOTgsNDA4NzM4MDY4LC01OT
-g4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbLTQ3MTA0Mjg4OCw0MDg3MzgwNjgsLTU5OD
+g3NTAzMl19
 -->
