@@ -44,10 +44,10 @@ Occurs when:
 **Process:** Management unit. Sort of like a container containing items
 **Objects:** Runtime instances of static structures such as files, threads and processes stored in kernel space
 **Handle:** Reference to an object stored in the kernel space
-**Handle Table:** 
+**Handle Table:** Maps handles in user space to object in kernel space. Access rights for each handle 
 **Reference Count:** Keeps count of whether an object is being "used" or referenced. If the reference count of an object is 0, OS may perform garbage collection of the object to free up memory
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgyNzg0OTUsLTE5OTY5OTQwMDksND
-A4NzM4MDY4LC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbLTI3NzQwOTkyMCwtMTk5Njk5NDAwOSw0MD
+g3MzgwNjgsLTU5ODg3NTAzMl19
 -->
