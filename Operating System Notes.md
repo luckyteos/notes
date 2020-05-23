@@ -19,6 +19,7 @@
 
 **Page Table:** Contains the mappings of virtual addresses used in a process, to the actual addresses used in the main memory
 > Every process has its own page table. Information about page tables for each process are stored in the CR3 register
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Virtual_address_space_and_physical_address_space_relationship.svg/1200px-Virtual_address_space_and_physical_address_space_relationship.svg.png = 30)
 
 **Page Fault:** 
 Occurs when:
@@ -48,6 +49,6 @@ Occurs when:
 **Reference Count:** Keeps count of whether an object is being "used" or referenced. If the reference count of an object is 0, OS may perform garbage collection of the object to free up memory
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzQwOTkyMCwtMTk5Njk5NDAwOSw0MD
-g3MzgwNjgsLTU5ODg3NTAzMl19
+eyJoaXN0b3J5IjpbMzAxMDkwMDE2LC0xOTk2OTk0MDA5LDQwOD
+czODA2OCwtNTk4ODc1MDMyXX0=
 -->
