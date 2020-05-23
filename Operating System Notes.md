@@ -47,14 +47,16 @@ Occurs when:
 
 **Objects:** Runtime instances of static structures such as files, threads and processes stored in kernel space
 
-**Handle:** Reference to an object stored in the kernel space. Access rights can be specified for a handle
+**Handle:** Reference to an object stored in the kernel space. Access rights should be specified
 
 **Handle Table:** Maps handles in user space to object in kernel space. 
 ![enter image description here](https://qph.fs.quoracdn.net/main-qimg-0fca3f679c15b5420dc9b78088aa218a)
 
+**Handle Inheritance:** Child processes can inherit pa
+
 **Reference Count:** Keeps count of whether an object is being "used" or referenced. If the reference count of an object is 0, OS may perform garbage collection of the object to free up memory
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDY5NzMyOCwtOTY3NzcxODY3LC0xOT
-k2OTk0MDA5LDQwODczODA2OCwtNTk4ODc1MDMyXX0=
+eyJoaXN0b3J5IjpbLTE5MDIwNjgzNjQsLTk2Nzc3MTg2NywtMT
+k5Njk5NDAwOSw0MDg3MzgwNjgsLTU5ODg3NTAzMl19
 -->
