@@ -20,7 +20,12 @@
 **Page Table:** Contains the mappings of virtual addresses used in a process, to the actual addresses used in the main memory
 > Every process has its own page table. Information about page tables for each process are stored in the CR3 register
 
-**Page Fault:** P
+**Page Fault:** 
+Occurs when:
+
+ - Page is not in the main memory (Paged out)
+ - Non-Allocated memory address is accessed
+ - Write operation is attempted on a read only page
 
 **Swapping:** Taking memory from stagnant processes, store them maybe in the hard disk, and giving the freed memory space to processes that require memory
 
@@ -29,6 +34,6 @@
 ![enter image description here](https://gabrieletolomei.files.wordpress.com/2013/10/memory_layout.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTQwNDQ4Niw0MDg3MzgwNjgsLTU5OD
+eyJoaXN0b3J5IjpbMTM2MDQ0MzQ4OCw0MDg3MzgwNjgsLTU5OD
 g3NTAzMl19
 -->
