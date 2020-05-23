@@ -3,6 +3,8 @@
 
 ---
 
+<hr>
+<hr>
 <h2 id="introduction">Introduction</h2>
 <p><strong>Basic Operation of a computer</strong><br>
 <img src="https://pxt.azureedge.net/blob/e644eb8aa2a44b1732aca811f598ab695b43420a/static/courses/csintro/algorithms/inputs-process-outputs.png" alt="enter image description here"></p>
@@ -52,6 +54,3 @@ Occurs when:</p>
 <h3 id="whats-common---process-and-thread">What’s common - Process and Thread</h3>
 <p><img src="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg" alt="enter image description here"></p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODgxMjQyMV19
--->
