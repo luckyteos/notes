@@ -61,11 +61,12 @@ Occurs when:
 **Thread:** Basic scheduable system entity. A process should contain at least one thread. A process does not run, a thread is what executes the instructions in a program
 
 ### What's common - Process and Thread
-![enter image description here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg=500x)
+
+![enter image description here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg)
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMxOTA0NTEsLTk2Nzc3MTg2NywtMT
-k5Njk5NDAwOSw0MDg3MzgwNjgsLTU5ODg3NTAzMl19
+eyJoaXN0b3J5IjpbNDI1ODQ4Mzc1LC05Njc3NzE4NjcsLTE5OT
+Y5OTQwMDksNDA4NzM4MDY4LC01OTg4NzUwMzJdfQ==
 -->
