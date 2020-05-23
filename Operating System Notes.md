@@ -43,8 +43,9 @@ Occurs when:
 ## Processes, Threads, Objects
 **Process:** Management unit. Sort of like a container containing items
 **Objects:** Runtime instances of static structures such as files, threads and processes stored in kernel space
-**Handle:** Reference to an object stored in the k 
+**Handle:** Reference to an object stored in the kernel space
+**Reference Count:** Keeps count of whether an object is being "used" or referenced 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA2NDUwNzgsLTE5OTY5OTQwMDksND
-A4NzM4MDY4LC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbLTM1MzIxNTg3MSwtMTk5Njk5NDAwOSw0MD
+g3MzgwNjgsLTU5ODg3NTAzMl19
 -->
