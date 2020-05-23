@@ -13,8 +13,9 @@
 
 > Every layer in the memory serves as a cache for the layer beneath it
 
-**Virtual Memory:** Concept of each process having their own separate memory space, which is independent of where the 
+**Virtual Memory:** Concept of each process having their own separate memory space, which is independent of where the memory allocated for the process is actually stored on the main memory (RAM)
+**Page:** 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3NjYzMjM3LC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbNDA4NzM4MDY4LC01OTg4NzUwMzJdfQ==
 -->
