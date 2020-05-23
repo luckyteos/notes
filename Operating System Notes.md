@@ -13,8 +13,8 @@
 
 > Every layer in the memory serves as a cache for the layer beneath it
 
-
+**Virtual Memory:** Memory space known to process, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTY4Nzg2MSwtNTk4ODc1MDMyXX0=
+eyJoaXN0b3J5IjpbLTMzMDYyNjg3NywtNTk4ODc1MDMyXX0=
 -->
