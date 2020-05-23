@@ -40,10 +40,11 @@ Occurs when:
 
 **Shared Memory:** Processes are aware that they are sharing the memory
 
-## Processes and Threads
+## Processes, Threads, Objects
 **Process:** Management unit. Sort of like a container containing items
- 
+**Objects:** Runtime instances of static structures such as files, threads and processes stored in kernel space
+**Handle:** Reference to an object stored in the k 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE1Mzc4NjAsLTE5OTY5OTQwMDksND
+eyJoaXN0b3J5IjpbLTE2MjA2NDUwNzgsLTE5OTY5OTQwMDksND
 A4NzM4MDY4LC01OTg4NzUwMzJdfQ==
 -->
