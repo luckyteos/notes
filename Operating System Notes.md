@@ -71,7 +71,15 @@ eg. Two threads attempt to modify the same global variable
 
 **Critical Section**
 
-    def add_to_x(
+    x = 10
+    
+    # Process 1
+    def add_to_x():
+	    x = x + 1
+	
+	# Process 2
+	def subtract_from
+		    
 
 **How can we solve this?**
 **Mutex**
@@ -134,7 +142,7 @@ eg. Two threads attempt to modify the same global variable
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTc1NjI4OCwtNzg1MDYzNzgzLC0yMj
-k0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQw
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTExNTA3MDQ2MDcsLTc4NTA2Mzc4MywtMj
+I5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0
+MDczXX0=
 -->
