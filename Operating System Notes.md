@@ -65,10 +65,17 @@ Occurs when:
 
 ![enter image description here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg)
 
-### Inter-process communication 
+### Inter-process communication (IPC)
+* Named Pipes
+* Shared Memory between processes
+	* Can be done in Win32API with CreateFileMapping
+* "Classic" IPC
+	* Clipboard
+	* Files
+	* Sockets
 ## Linking and Loading
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMDY5MTA1LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbMjE2NDk2MDA5LDEyMTQxODQwNzNdfQ==
 -->
