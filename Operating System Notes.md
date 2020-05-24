@@ -102,7 +102,7 @@ If a context switch occurs for example before the new value of variable x is sav
 	* If Event is signalled, any threads can access resource and vice versa
 	* Example: Clean a location - Events can be used to signal the status of different activities or tasks
 
-**Interlocked Operations:** I
+**Interlocked Operations:** Operations implemented in hardware, such as adding two numbers together. Mitigates the issue of critical section as the operation is now done in one instruction (atomic)
 
 **More Waitable Objects**
 * Processes
@@ -163,7 +163,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE3MzU1OTYsLTM5MTI4NzQyNSwzNz
-A0MzgzMDgsLTc4NTA2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3
-NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbLTM1OTI1Mjk5MSwtMzkxMjg3NDI1LDM3MD
+QzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3
+OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
 -->
