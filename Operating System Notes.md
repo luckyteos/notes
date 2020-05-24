@@ -88,6 +88,12 @@ If a context switch occurs for example before the new value of variable x is sav
 * Only synchronizes threads within a single process
 
 **Other Synchronization Objects:**
+* Semaphore
+	* Like a gatekeeper
+	* Specifies the maximum number of threads allowed to access a particular resource at a point in time
+* Events
+	* Two possible states: Signalled or not signalled
+	* 
  	    
 
 **How can we solve this?**
@@ -151,7 +157,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzg5ODM1OSwzNzA0MzgzMDgsLTc4NT
+eyJoaXN0b3J5IjpbLTg2OTIxMDkxMiwzNzA0MzgzMDgsLTc4NT
 A2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAx
 NywxMjE0MTg0MDczXX0=
 -->
