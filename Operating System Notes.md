@@ -197,13 +197,19 @@ If a context switch occurs for example before the new value of variable x is sav
 * Winlogon
 * Active Directory
 
-**How does psexec run as sy user?**
-* Create a temporary service with SYSTEM user
+**How does psexec run as SYSTEM user?**
+* Create a temporary service with SYSTEM user permissions
+
+**Advanced Security Features**
+* Integrity Levels
+	* Can specify in addition to the owner of the process, the trust level of the process
+* UAC (User Access Control)
+	* Used to mitigate the issue of malicious users attempting to send messages to
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTY1NDI2OCwxMjQ4ODA0NzEyLDUzOT
-Q3ODU5OSwtMzkxMjg3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgz
-LC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMT
-QxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbLTEwMTE4ODc1NDgsMTI0ODgwNDcxMiw1Mz
+k0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4
+MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMj
+E0MTg0MDczXX0=
 -->
