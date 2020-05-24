@@ -94,12 +94,13 @@ Occurs when:
 					* When program that does not usually need a window needs to show a window in a particular situation
 					
 **Linker:** Creates the headers of the image file such as DOS Header, NT Header, Section Header
+**.lib:** Contains 
 
 ### Loading
 **Loader:** Loads the PE image into the process's virtual memory, along with its associated resources (imports etc)
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk2MTE1MzMsLTIyOTQyNjc0NCwxNj
-A1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3M119
+eyJoaXN0b3J5IjpbMzQxMjM1NzUzLC0yMjk0MjY3NDQsMTYwNT
+IxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
 -->
