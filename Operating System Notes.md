@@ -86,7 +86,7 @@ Occurs when:
 **ExportDirectory:** Contains reference to functions inside my library that others can use to call them
 
 **Relocation Table:** All the places in the PE image where there are absolute addresses that needs to be changed
- 	
+* RVA of relocation table in CFF explorer points us to the relative address of the instruction containing the absolute address to be changed 	
 
 ## Linking and Loading
 ### Linking
@@ -117,7 +117,7 @@ Occurs when:
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3NDQ3NDU5LC03ODUwNjM3ODMsLTIyOT
-QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
-M119
+eyJoaXN0b3J5IjpbMjAzODQyOTI5NywtNzg1MDYzNzgzLC0yMj
+k0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQw
+NzNdfQ==
 -->
