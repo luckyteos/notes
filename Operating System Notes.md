@@ -189,6 +189,10 @@ If a context switch occurs for example before the new value of variable x is sav
 ## Windows Security
 > If user is in Administrators and another user group, if deny permission is set on user group, user will not be able to access resource as deny takes precedence over allow
 
+**Special Permissions**
+* SeShutdown Privilege
+* SeDeb
+
 **Security Components**
 * SRM (Security Reference Monitor)
 	* Does the security checks when a resource is accessed
@@ -204,12 +208,13 @@ If a context switch occurs for example before the new value of variable x is sav
 * Integrity Levels
 	* Can specify in addition to the owner of the process, the trust level of the process
 * UAC (User Access Control)
-	* Used to mitigate the issue of malicious users attempting to send messages to
+	* Used to mitigate the issue of malicious users attempting to send messages to execute privileged instructions in privileged processes
+	* Blocks all system activity until permission is granted or denied for an action
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE4ODc1NDgsMTI0ODgwNDcxMiw1Mz
-k0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4
-MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMj
-E0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbMTk0MDA0OTE4NCwxMjQ4ODA0NzEyLDUzOT
+Q3ODU5OSwtMzkxMjg3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgz
+LC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMT
+QxODQwNzNdfQ==
 -->
