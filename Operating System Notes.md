@@ -92,12 +92,14 @@ Occurs when:
 					* Updating a running program or service
 					* Malware running in a legitimate program importing libraries it depends on to 		function
 					* When program that does not usually need a window needs to show a window in a particular situation
+					
+**Linker: **
 
 ### Loading
 **Loader:** Loads the PE image into the process's virtual memory, along with its associated resources (imports etc)
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTQyNjc0NCwxNjA1MjExNzc4LDE4Nz
-Q3MjIwMTcsMTIxNDE4NDA3M119
+eyJoaXN0b3J5IjpbMTU5NTYzODg3OSwtMjI5NDI2NzQ0LDE2MD
+UyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
 -->
