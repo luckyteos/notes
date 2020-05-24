@@ -80,7 +80,10 @@ eg. Two threads attempt to modify the same global variable
 	# Process 2
 	def subtract_from_x():
 		x = x - 1
-If a context switch occurs for example before the new value of variable x is saved in process 1, and process 2 successfully modifies the value of x, then what should be the correct value of x now?	    
+If a context switch occurs for example before the new value of variable x is saved in process 1, and process 2 successfully modifies the value of x, then what should be the correct value of x now?
+
+**EnterCriticalSection - Win32API**
+* Does not need system call to  	    
 
 **How can we solve this?**
 **Mutex**
@@ -143,7 +146,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNDM4MzA4LC03ODUwNjM3ODMsLTIyOT
-QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
-M119
+eyJoaXN0b3J5IjpbNzM0NTk3OTEwLDM3MDQzODMwOCwtNzg1MD
+YzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3
+LDEyMTQxODQwNzNdfQ==
 -->
