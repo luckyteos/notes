@@ -68,8 +68,11 @@ Occurs when:
 ![enter image description here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg)
 
 **Context Switching:** Switch from executing threads in one process to threads in another process. The context or state of threads being switched out is saved in the registers
+* Part of the preemptive multitasking feature of modern OS
 
-**System Call:**  
+**System Call:** Switch from user space to kernel space and back 
+
+**Win3
 
 ### Scheduling
 **Methods**
@@ -217,8 +220,8 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDA2NTk2Miw4NTM3NDQwNjEsMTI0OD
-gwNDcxMiw1Mzk0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgs
-LTc4NTA2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3ND
-cyMjAxNywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbLTE2NTMzMDAzNTQsODUzNzQ0MDYxLDEyND
+g4MDQ3MTIsNTM5NDc4NTk5LC0zOTEyODc0MjUsMzcwNDM4MzA4
+LC03ODUwNjM3ODMsLTIyOTQyNjc0NCwxNjA1MjExNzc4LDE4Nz
+Q3MjIwMTcsMTIxNDE4NDA3M119
 -->
