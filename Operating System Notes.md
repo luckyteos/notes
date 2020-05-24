@@ -187,11 +187,14 @@ If a context switch occurs for example before the new value of variable x is sav
 > Implemented through libraries user32.dll and GDI32.dll
 
 **WoW64 (Windows on Windows 64):** Allows running of 32 bit applications on 64 bit windows OS
+
 **Event Driven:** Windows based apps communicate through events
 
 **wndFunc/WindowProc():** Controls what happens when a windows message is received
 
 **Kernel-Based:** Win32k functions reside within the kernel, security issue as there is no concept of isolation for windows unlike processes and their virtual memory
+
+
 
 ## Windows Security
 > If user is in Administrators and another user group, if deny permission is set on user group, user will not be able to access resource as deny takes precedence over allow
@@ -220,8 +223,8 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA4NDIyNzcsODUzNzQ0MDYxLDEyND
-g4MDQ3MTIsNTM5NDc4NTk5LC0zOTEyODc0MjUsMzcwNDM4MzA4
-LC03ODUwNjM3ODMsLTIyOTQyNjc0NCwxNjA1MjExNzc4LDE4Nz
-Q3MjIwMTcsMTIxNDE4NDA3M119
+eyJoaXN0b3J5IjpbLTcxNTc4MTYxNSwtMjAxMDg0MjI3Nyw4NT
+M3NDQwNjEsMTI0ODgwNDcxMiw1Mzk0Nzg1OTksLTM5MTI4NzQy
+NSwzNzA0MzgzMDgsLTc4NTA2Mzc4MywtMjI5NDI2NzQ0LDE2MD
+UyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
 -->
