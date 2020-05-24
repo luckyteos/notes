@@ -75,7 +75,10 @@ Occurs when:
 	* Clipboard
 	* Files
 	* Sockets
-	
+
+## PE (Portable Executable) File Format
+**AddressOfEntryPoint:** Where the program code begins	
+
 ## Linking and Loading
 ### Linking
 * Static Linking
@@ -105,6 +108,7 @@ Occurs when:
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTA2Mzc4MywtMjI5NDI2NzQ0LDE2MD
-UyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbNjkxNjI3NDY3LC03ODUwNjM3ODMsLTIyOT
+QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
+M119
 -->
