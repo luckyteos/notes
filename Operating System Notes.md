@@ -81,6 +81,9 @@ Occurs when:
 * Static Linking
 	* Happens before the process is created
 	* Takes all the object files and links them to form an executable
+	* Disadvantages:
+		* Image file becomes bigger
+		* If location of object file changes, then program would not be able to find the file
 * Dynamic Linking
 	* Happens after the process is created
 	* Two main forms:
@@ -94,13 +97,14 @@ Occurs when:
 					* When program that does not usually need a window needs to show a window in a particular situation
 					
 **Linker:** Creates the headers of the image file such as DOS Header, NT Header, Section Header
-**.lib:** Contains 
+
+**.lib:** Contains all the different object files
 
 ### Loading
 **Loader:** Loads the PE image into the process's virtual memory, along with its associated resources (imports etc)
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMjM1NzUzLC0yMjk0MjY3NDQsMTYwNT
-IxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbLTc4NTA2Mzc4MywtMjI5NDI2NzQ0LDE2MD
+UyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
 -->
