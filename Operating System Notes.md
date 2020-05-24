@@ -21,7 +21,7 @@
 
 **Page Table:** Contains the mappings of virtual addresses used in a process, to the actual addresses used in the main memory
 > Every process has its own page table. Information about page tables for each process are stored in the CR3 register
-> 
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Virtual_address_space_and_physical_address_space_relationship.svg/1200px-Virtual_address_space_and_physical_address_space_relationship.svg.png =500x450)
 
 **Page Fault:** 
@@ -223,9 +223,9 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjE3NTMwOSw5MzYxMDU5NDMsLTI5Mz
-Y3ODE1MiwtNzE1NzgxNjE1LC0yMDEwODQyMjc3LDg1Mzc0NDA2
-MSwxMjQ4ODA0NzEyLDUzOTQ3ODU5OSwtMzkxMjg3NDI1LDM3MD
-QzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3
-OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbMjkzNjMwODY1LC02ODYxNzUzMDksOTM2MT
+A1OTQzLC0yOTM2NzgxNTIsLTcxNTc4MTYxNSwtMjAxMDg0MjI3
+Nyw4NTM3NDQwNjEsMTI0ODgwNDcxMiw1Mzk0Nzg1OTksLTM5MT
+I4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4MywtMjI5NDI2NzQ0
+LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
 -->
