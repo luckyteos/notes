@@ -78,7 +78,7 @@ Occurs when:
 **Methods**
 * Round Robin
 * Priority Based (Windows)
-	* Higher priority processes or threads get more runtime
+	* Higher priority processes or threads runs first and hence get more runtime
 	* Each thread in windows has a priority assigned to it
 		* Base Priority: Determined by importance of process
 	* Dynamic Priority
@@ -224,10 +224,9 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI5NzU0NTgsLTY4NjE3NTMwOSw5Mz
-YxMDU5NDMsLTI5MzY3ODE1MiwtNzE1NzgxNjE1LC0yMDEwODQy
-Mjc3LDg1Mzc0NDA2MSwxMjQ4ODA0NzEyLDUzOTQ3ODU5OSwtMz
-kxMjg3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3
-NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ
-==
+eyJoaXN0b3J5IjpbODM3NTA2OTQ2LC02ODYxNzUzMDksOTM2MT
+A1OTQzLC0yOTM2NzgxNTIsLTcxNTc4MTYxNSwtMjAxMDg0MjI3
+Nyw4NTM3NDQwNjEsMTI0ODgwNDcxMiw1Mzk0Nzg1OTksLTM5MT
+I4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4MywtMjI5NDI2NzQ0
+LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
 -->
