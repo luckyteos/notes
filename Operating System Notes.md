@@ -191,11 +191,18 @@ If a context switch occurs for example before the new value of variable x is sav
 
 **Security Components**
 * SRM (Security Reference Monitor)
-	* Does the security
+	* Does the security checks when a resource is accessed
+* LSSAS (Local Security Authority Subsystem)
+* Auth Packages
+* Winlogon
+* Active Directory
+
+**How does psexec run as sy user?**
+* Create a temporary service with SYSTEM user
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTk3MDk4MSwxMjQ4ODA0NzEyLDUzOT
+eyJoaXN0b3J5IjpbMTg3MTY1NDI2OCwxMjQ4ODA0NzEyLDUzOT
 Q3ODU5OSwtMzkxMjg3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgz
 LC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMT
 QxODQwNzNdfQ==
