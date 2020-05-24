@@ -69,11 +69,16 @@ Occurs when:
 **Cooperation Problem:** Two threads attempt to access the same resource
 eg. Two threads attempt to modify the same global variable
 
+**Critical Section**
+
+
 **How can we solve this?**
 **Mutex**
 * Implemented in the kernel as an object
 * Clear owner: Only person who took it can put it back, though if no owner is specified anyone can take it and become the owner of it
-* Examples: Log files can use mutex to prevent multiple threads from attempting to write to it at the sam
+* Examples: Log files can use mutex to prevent multiple threads from attempting to write to it at the same time
+
+
 
 
 ### Inter-process communication (IPC)
@@ -128,7 +133,7 @@ eg. Two threads attempt to modify the same global variable
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTk0NzI1LC03ODUwNjM3ODMsLTIyOT
+eyJoaXN0b3J5IjpbODU4Nzc4NTM3LC03ODUwNjM3ODMsLTIyOT
 QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
 M119
 -->
