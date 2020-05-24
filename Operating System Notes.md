@@ -184,11 +184,14 @@ If a context switch occurs for example before the new value of variable x is sav
 
 **wndFunc/WindowProc():** Controls what happens when a windows message is received
 
-**Kernel-Based:** Win32k functions reside within the kernel, secur
+**Kernel-Based:** Win32k functions reside within the kernel, security issue as there is no concept of isolation for windows unlike processes and their virtual memory
+
+## Windows Security
+If user is in Administrators and anothe
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ1NjU4MDIsMTI0ODgwNDcxMiw1Mz
+eyJoaXN0b3J5IjpbLTE4ODIzODg1NTcsMTI0ODgwNDcxMiw1Mz
 k0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4
 MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMj
 E0MTg0MDczXX0=
