@@ -83,7 +83,12 @@ eg. Two threads attempt to modify the same global variable
 If a context switch occurs for example before the new value of variable x is saved in process 1, and process 2 successfully modifies the value of x, then what should be the correct value of x now?
 
 **EnterCriticalSection - Win32API**
-* Does not need system call to  	    
+* Does not need system call to transit to kernel mode
+* Runs in the user mode
+* Only synchronizes threads within a single process
+
+**Other Synchronization Objects:**
+ 	    
 
 **How can we solve this?**
 **Mutex**
@@ -146,7 +151,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NTk3OTEwLDM3MDQzODMwOCwtNzg1MD
-YzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3
-LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbMTExMzg5ODM1OSwzNzA0MzgzMDgsLTc4NT
+A2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAx
+NywxMjE0MTg0MDczXX0=
 -->
