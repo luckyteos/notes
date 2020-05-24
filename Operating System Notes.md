@@ -71,6 +71,7 @@ eg. Two threads attempt to modify the same global variable
 
 **Critical Section**
 
+    def add_to_x(
 
 **How can we solve this?**
 **Mutex**
@@ -133,7 +134,7 @@ eg. Two threads attempt to modify the same global variable
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4Nzc4NTM3LC03ODUwNjM3ODMsLTIyOT
-QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
-M119
+eyJoaXN0b3J5IjpbLTIzMTc1NjI4OCwtNzg1MDYzNzgzLC0yMj
+k0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQw
+NzNdfQ==
 -->
