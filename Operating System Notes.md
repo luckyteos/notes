@@ -182,12 +182,14 @@ If a context switch occurs for example before the new value of variable x is sav
 **WoW64 (Windows on Windows 64):** Allows running of 32 bit applications on 64 bit windows OS
 **Event Driven:** Windows based apps communicate through events
 
-**wndFunc**
+**wndFunc/WindowProc():** Controls what happens when a windows message is received
+
+**Kernel-Based:** Win32k functions reside within the kernel, secur
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMDE1MzQsMTI0ODgwNDcxMiw1Mzk0Nz
-g1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4Mywt
-MjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MT
-g0MDczXX0=
+eyJoaXN0b3J5IjpbLTEzNDQ1NjU4MDIsMTI0ODgwNDcxMiw1Mz
+k0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4
+MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMj
+E0MTg0MDczXX0=
 -->
