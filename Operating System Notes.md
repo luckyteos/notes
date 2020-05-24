@@ -67,6 +67,12 @@ Occurs when:
 
 **Context Switching:** Switch from executing threads in one process to threads in another process. The context or state of threads being switched out is saved in the registers
 
+### Scheduling
+Methods
+* Round Robin
+* Priority Based (
+
+
 ### Synchronization
 **Cooperation Problem:** Two threads attempt to access the same resource
 eg. Two threads attempt to modify the same global variable
@@ -165,7 +171,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NDc4NTk5LC0zOTEyODc0MjUsMzcwND
-M4MzA4LC03ODUwNjM3ODMsLTIyOTQyNjc0NCwxNjA1MjExNzc4
-LDE4NzQ3MjIwMTcsMTIxNDE4NDA3M119
+eyJoaXN0b3J5IjpbNjg5MjQyNTY1LDUzOTQ3ODU5OSwtMzkxMj
+g3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3NDQs
+MTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
 -->
