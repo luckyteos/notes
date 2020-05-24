@@ -83,7 +83,10 @@ Occurs when:
 
 **ImportDirectory:** Contains a table of all the libraries imported by a program/image
 
-**ExportDirectory:** Contains reference to functions inside my library that othe	
+**ExportDirectory:** Contains reference to functions inside my library that others can use to call them
+
+**Relocation Table:** All the places in the PE image where there are absolute addresses that needs to be changed
+ 	
 
 ## Linking and Loading
 ### Linking
@@ -114,7 +117,7 @@ Occurs when:
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTczMTcyOCwtNzg1MDYzNzgzLC0yMj
-k0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQw
-NzNdfQ==
+eyJoaXN0b3J5IjpbOTM3NDQ3NDU5LC03ODUwNjM3ODMsLTIyOT
+QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
+M119
 -->
