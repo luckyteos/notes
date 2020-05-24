@@ -7,7 +7,9 @@
 
 ## Memory
 **Memory Hierarchy**
+
 ![enter image description here](https://images.computerhistory.org/revonline/images/500004956.jpg?w=400)
+
 **Caching**
 > Copying information into a faster storage medium eg. from hard disk to main memory (RAM)
 
@@ -213,8 +215,8 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNzQ0MDYxLDg1Mzc0NDA2MSwxMjQ4OD
-A0NzEyLDUzOTQ3ODU5OSwtMzkxMjg3NDI1LDM3MDQzODMwOCwt
-Nzg1MDYzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0Nz
-IyMDE3LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbMTc5NzU2OTExMyw4NTM3NDQwNjEsMTI0OD
+gwNDcxMiw1Mzk0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgs
+LTc4NTA2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3ND
+cyMjAxNywxMjE0MTg0MDczXX0=
 -->
