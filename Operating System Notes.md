@@ -78,8 +78,9 @@ eg. Two threads attempt to modify the same global variable
 	    x = x + 1
 	
 	# Process 2
-	def subtract_from
-		    
+	def subtract_from_x():
+		x = x - 1
+If a context switch occurs for example before the new value of variable x is saved in process 1, and process 2 successfully modifies the value of x, then what should be the correct value of x now?	    
 
 **How can we solve this?**
 **Mutex**
@@ -142,7 +143,7 @@ eg. Two threads attempt to modify the same global variable
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA3MDQ2MDcsLTc4NTA2Mzc4MywtMj
-I5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0
-MDczXX0=
+eyJoaXN0b3J5IjpbMzcwNDM4MzA4LC03ODUwNjM3ODMsLTIyOT
+QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
+M119
 -->
