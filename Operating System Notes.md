@@ -77,7 +77,7 @@ Occurs when:
 	* Sockets
 	
 ## Linking and Loading
-**Linking**
+### Linking
 * Static Linking
 	* Happens before the process is created
 	* Takes all the object files and links them to form an executable
@@ -91,9 +91,12 @@ Occurs when:
 				* Useful for:
 					* Updating a running program or service
 					* Malware running in a legitimate program importing libraries it depends on to 		function
-					* When program
+					* When program that does not usually need a window needs to show a window in a particular situation
+
+### Loading
+ 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg0NjM2MTYsMTYwNTIxMTc3OCwxOD
-c0NzIyMDE3LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbMzYwMjkyMzUwLDE2MDUyMTE3NzgsMTg3ND
+cyMjAxNywxMjE0MTg0MDczXX0=
 -->
