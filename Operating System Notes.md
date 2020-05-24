@@ -82,9 +82,13 @@ Occurs when:
 	* Happens before the process is created
 	* Takes all the object files and links them to form an executable
 * Dynamic Linking
-* 
+	* Happens after the process is created
+	* Two main forms:
+		* Implicit
+			* Loads the required libraries based on the Import Address Table (IAT)
+		* Explicit
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDc1NDU4MCwxODc0NzIyMDE3LDEyMT
+eyJoaXN0b3J5IjpbLTM1MzkwNTQ3MywxODc0NzIyMDE3LDEyMT
 QxODQwNzNdfQ==
 -->
