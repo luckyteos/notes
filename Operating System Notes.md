@@ -69,6 +69,8 @@ Occurs when:
 
 **Context Switching:** Switch from executing threads in one process to threads in another process. The context or state of threads being switched out is saved in the registers
 
+**System Call:**  
+
 ### Scheduling
 **Methods**
 * Round Robin
@@ -215,7 +217,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzU2OTExMyw4NTM3NDQwNjEsMTI0OD
+eyJoaXN0b3J5IjpbMTc4MDA2NTk2Miw4NTM3NDQwNjEsMTI0OD
 gwNDcxMiw1Mzk0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgs
 LTc4NTA2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3ND
 cyMjAxNywxMjE0MTg0MDczXX0=
