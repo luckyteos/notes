@@ -67,7 +67,12 @@ Occurs when:
 
 ### Synchronization
 **Cooperation Problem:** Two threads attempt to access the same resource
+eg. Two threads attempt to modify the same global variable
 
+**How can we solve this?**
+**Mutex**
+* Implemented in the kernel as an object
+* Clear owne
 
 
 ### Inter-process communication (IPC)
@@ -122,7 +127,7 @@ Occurs when:
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTg3MDk4NiwtNzg1MDYzNzgzLC0yMj
+eyJoaXN0b3J5IjpbMTg2OTQwNTk2NywtNzg1MDYzNzgzLC0yMj
 k0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQw
 NzNdfQ==
 -->
