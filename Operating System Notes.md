@@ -196,8 +196,6 @@ If a context switch occurs for example before the new value of variable x is sav
 
 **Kernel-Based:** Win32k functions reside within the kernel, security issue as there is no concept of isolation for windows unlike processes and their virtual memory
 
-
-
 ## Windows Security
 > If user is in Administrators and another user group, if deny permission is set on user group, user will not be able to access resource as deny takes precedence over allow
 
@@ -225,9 +223,9 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MTA1OTQzLC0yOTM2NzgxNTIsLTcxNT
-c4MTYxNSwtMjAxMDg0MjI3Nyw4NTM3NDQwNjEsMTI0ODgwNDcx
-Miw1Mzk0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgsLTc4NT
-A2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAx
-NywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbLTY4NjE3NTMwOSw5MzYxMDU5NDMsLTI5Mz
+Y3ODE1MiwtNzE1NzgxNjE1LC0yMDEwODQyMjc3LDg1Mzc0NDA2
+MSwxMjQ4ODA0NzEyLDUzOTQ3ODU5OSwtMzkxMjg3NDI1LDM3MD
+QzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3
+OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
 -->
