@@ -33,6 +33,7 @@ Occurs when:
 
 
 **User Mode/Kernel Mode**
+
 ![enter image description here](https://gabrieletolomei.files.wordpress.com/2013/10/memory_layout.jpg)
 
 **Heap:** Memory space in process to allow for dynamic allocation of memory. By allocating memory from the heap there is no need to create a new mapping in the page table
@@ -212,8 +213,8 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzU4NDQwNSw4NTM3NDQwNjEsMTI0OD
-gwNDcxMiw1Mzk0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgs
-LTc4NTA2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3ND
-cyMjAxNywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbODUzNzQ0MDYxLDg1Mzc0NDA2MSwxMjQ4OD
+A0NzEyLDUzOTQ3ODU5OSwtMzkxMjg3NDI1LDM3MDQzODMwOCwt
+Nzg1MDYzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0Nz
+IyMDE3LDEyMTQxODQwNzNdfQ==
 -->
