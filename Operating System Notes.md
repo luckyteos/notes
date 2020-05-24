@@ -85,10 +85,13 @@ Occurs when:
 	* Happens after the process is created
 	* Two main forms:
 		* Implicit
-			* Loads the required libraries based on the Import Address Table (IAT)
+			* Links the required libraries based on the Import Address Table (IAT)
 		* Explicit
+			* Manually specify using Win32API libraries to load in the program
+				* Useful for:
+					* Updating a running program or service
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzkwNTQ3MywxODc0NzIyMDE3LDEyMT
+eyJoaXN0b3J5IjpbMTAxMTMzMDM0OSwxODc0NzIyMDE3LDEyMT
 QxODQwNzNdfQ==
 -->
