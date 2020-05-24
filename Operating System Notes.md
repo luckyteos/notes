@@ -94,9 +94,9 @@ Occurs when:
 					* When program that does not usually need a window needs to show a window in a particular situation
 
 ### Loading
- 
+**Loader:** Loads the PE image into the process's virtual memory, al 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMjkyMzUwLDE2MDUyMTE3NzgsMTg3ND
+eyJoaXN0b3J5IjpbODYxMjgxNzA2LDE2MDUyMTE3NzgsMTg3ND
 cyMjAxNywxMjE0MTg0MDczXX0=
 -->
