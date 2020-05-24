@@ -72,7 +72,8 @@ eg. Two threads attempt to modify the same global variable
 **How can we solve this?**
 **Mutex**
 * Implemented in the kernel as an object
-* Clear owne
+* Clear owner: Only person who took it can put it back, though if no owner is specified anyone can take it and become the owner of it
+* Examples: Log files can use mutex to prevent multiple threads from attempting to write to it at the sam
 
 
 ### Inter-process communication (IPC)
@@ -127,7 +128,7 @@ eg. Two threads attempt to modify the same global variable
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTQwNTk2NywtNzg1MDYzNzgzLC0yMj
-k0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQw
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTcyOTk0NzI1LC03ODUwNjM3ODMsLTIyOT
+QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
+M119
 -->
