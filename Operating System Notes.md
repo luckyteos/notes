@@ -77,7 +77,11 @@ Occurs when:
 	* Sockets
 
 ## PE (Portable Executable) File Format
-**AddressOfEntryPoint:** Where the program code begins	
+**AddressOfEntryPoint:** Where the program code begins, relative to the start of the PE File or the MZ Header
+
+**ImageBase:** Ask the OS nicely if the PE image can be loaded at that virtual memory location
+
+**	
 
 ## Linking and Loading
 ### Linking
@@ -108,7 +112,7 @@ Occurs when:
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxNjI3NDY3LC03ODUwNjM3ODMsLTIyOT
-QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
-M119
+eyJoaXN0b3J5IjpbLTE1MjUyODE4MDksLTc4NTA2Mzc4MywtMj
+I5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0
+MDczXX0=
 -->
