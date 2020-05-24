@@ -93,7 +93,9 @@ If a context switch occurs for example before the new value of variable x is sav
 	* Specifies the maximum number of threads allowed to access a particular resource at a point in time
 * Events
 	* Two possible states: Signalled or not signalled
-	* 
+	* If Event is signalled, any threads can access resource and vice versa
+	* Example: Clean a location - Events can be used to signal the status of different activities or tasks
+	
  	    
 
 **How can we solve this?**
@@ -157,7 +159,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTIxMDkxMiwzNzA0MzgzMDgsLTc4NT
+eyJoaXN0b3J5IjpbLTYxODMxNDY5MSwzNzA0MzgzMDgsLTc4NT
 A2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAx
 NywxMjE0MTg0MDczXX0=
 -->
