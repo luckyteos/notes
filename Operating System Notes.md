@@ -175,10 +175,12 @@ If a context switch occurs for example before the new value of variable x is sav
 
 ### Loading
 **Loader:** Loads the PE image into the process's virtual memory, along with its associated resources (imports etc)
+
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODgwNDcxMiw1Mzk0Nzg1OTksLTM5MT
-I4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4MywtMjI5NDI2NzQ0
-LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbMjAzODM1MjE1MCwxMjQ4ODA0NzEyLDUzOT
+Q3ODU5OSwtMzkxMjg3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgz
+LC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMT
+QxODQwNzNdfQ==
 -->
