@@ -77,8 +77,14 @@ Occurs when:
 	* Sockets
 	
 ## Linking and Loading
-
+**Linking**
+* Static Linking
+	* Happens before the process is created
+	* Takes all the object files and links them to form an executable
+* Dynamic Linking
+* 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbLTUxMDc1NDU4MCwxODc0NzIyMDE3LDEyMT
+QxODQwNzNdfQ==
 -->
