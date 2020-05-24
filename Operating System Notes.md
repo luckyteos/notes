@@ -72,7 +72,7 @@ Occurs when:
 
 **System Call:** Switch from user space to kernel space and back 
 
-**Win3
+**Win32API:** A way for the processes to communicate back with the OS
 
 ### Scheduling
 **Methods**
@@ -220,7 +220,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMzMDAzNTQsODUzNzQ0MDYxLDEyND
+eyJoaXN0b3J5IjpbLTIwMTA4NDIyNzcsODUzNzQ0MDYxLDEyND
 g4MDQ3MTIsNTM5NDc4NTk5LC0zOTEyODc0MjUsMzcwNDM4MzA4
 LC03ODUwNjM3ODMsLTIyOTQyNjc0NCwxNjA1MjExNzc4LDE4Nz
 Q3MjIwMTcsMTIxNDE4NDA3M119
