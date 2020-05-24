@@ -65,8 +65,9 @@ Occurs when:
 
 ![enter image description here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg)
 
+## Loading and Linking
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDE4NDA3M119
+eyJoaXN0b3J5IjpbMjEyNDgxMjM4LDEyMTQxODQwNzNdfQ==
 -->
