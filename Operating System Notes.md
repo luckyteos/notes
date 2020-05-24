@@ -68,16 +68,17 @@ Occurs when:
 ### Inter-process communication (IPC)
 * Named Pipes
 	* One pipe for sending, one pipe for receiving
-	* 
+	* Can be done in Win32API through CreateFile, ReadFile and WriteFile
 * Shared Memory between processes
 	* Can be done in Win32API with CreateFileMapping
 * "Classic" IPC
 	* Clipboard
 	* Files
 	* Sockets
+	
 ## Linking and Loading
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MTYyMzI5LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
 -->
