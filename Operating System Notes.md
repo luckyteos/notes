@@ -176,10 +176,13 @@ If a context switch occurs for example before the new value of variable x is sav
 ### Loading
 **Loader:** Loads the PE image into the process's virtual memory, along with its associated resources (imports etc)
 
+## Windows GUI Subsystem
+**WoW64 (Windows on Windows 64):** Allows running of 32 bit applications on 64 bit windows OS
+**Event Driven:** Windows based apps are driven 
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODM1MjE1MCwxMjQ4ODA0NzEyLDUzOT
+eyJoaXN0b3J5IjpbLTE1MTU0NjU5NiwxMjQ4ODA0NzEyLDUzOT
 Q3ODU5OSwtMzkxMjg3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgz
 LC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMT
 QxODQwNzNdfQ==
