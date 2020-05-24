@@ -65,6 +65,8 @@ Occurs when:
 
 ![enter image description here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg)
 
+### Synchronization
+
 ### Inter-process communication (IPC)
 * Named Pipes
 	* One pipe for sending, one pipe for receiving
@@ -117,7 +119,7 @@ Occurs when:
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODQyOTI5NywtNzg1MDYzNzgzLC0yMj
-k0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQw
-NzNdfQ==
+eyJoaXN0b3J5IjpbNTYxMTc4MTgwLC03ODUwNjM3ODMsLTIyOT
+QyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3
+M119
 -->
