@@ -68,9 +68,16 @@ Occurs when:
 **Context Switching:** Switch from executing threads in one process to threads in another process. The context or state of threads being switched out is saved in the registers
 
 ### Scheduling
-Methods
+**Methods**
 * Round Robin
-* Priority Based (
+* Priority Based (Windows)
+	* Each thread in windows has a priority assigned to it
+		* Base Priority: Determined by importance of process
+	* Dynamic Priority
+		* close to base priority, usually varies from +2 to -2 
+		* Used to dynamically increase thread priority for example after a file read operation, where a process did not execute any instructions
+
+**Starving:** 
 
 
 ### Synchronization
@@ -171,7 +178,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MjQyNTY1LDUzOTQ3ODU5OSwtMzkxMj
-g3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3NDQs
-MTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbMjA4MDY2NjgwNiw1Mzk0Nzg1OTksLTM5MT
+I4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4MywtMjI5NDI2NzQ0
+LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
 -->
