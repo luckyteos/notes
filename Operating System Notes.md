@@ -65,6 +65,8 @@ Occurs when:
 
 ![enter image description here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg)
 
+**Context Switching:** Switch from executing 
+
 ### Synchronization
 **Cooperation Problem:** Two threads attempt to access the same resource
 eg. Two threads attempt to modify the same global variable
@@ -163,7 +165,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTI1Mjk5MSwtMzkxMjg3NDI1LDM3MD
+eyJoaXN0b3J5IjpbMTk4MjE5ODM3NCwtMzkxMjg3NDI1LDM3MD
 QzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3
 OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
 -->
