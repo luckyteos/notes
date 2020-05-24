@@ -65,9 +65,10 @@ Occurs when:
 
 ![enter image description here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg)
 
-## Loading and Linking
+### Inter-process communication 
+## Linking and Loading
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDgxMjM4LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbNDEzMDY5MTA1LDEyMTQxODQwNzNdfQ==
 -->
