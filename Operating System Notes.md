@@ -82,6 +82,12 @@ eg. Two threads attempt to modify the same global variable
 		x = x - 1
 If a context switch occurs for example before the new value of variable x is saved in process 1, and process 2 successfully modifies the value of x, then what should be the correct value of x now?
 
+**How can we solve this?**
+**Mutex**
+* Implemented in the kernel as an object
+* Clear owner: Only person who took it can put it back, though if no owner is specified anyone can take it and become the owner of it
+* Examples: Log files can use mutex to prevent multiple threads from attempting to write to it at the same time
+
 **EnterCriticalSection - Win32API**
 * Does not need system call to transit to kernel mode
 * Runs in the user mode
@@ -96,15 +102,11 @@ If a context switch occurs for example before the new value of variable x is sav
 	* If Event is signalled, any threads can access resource and vice versa
 	* Example: Clean a location - Events can be used to signal the status of different activities or tasks
 
-**How can we solve this?**
-**Mutex**
-* Implemented in the kernel as an object
-* Clear owner: Only person who took it can put it back, though if no owner is specified anyone can take it and become the owner of it
-* Examples: Log files can use mutex to prevent multiple threads from attempting to write to it at the same time
-
-
-
-
+**More Waitable Objects**
+* Processes
+* Threads
+* File
+* 
 ### Inter-process communication (IPC)
 * Named Pipes
 	* One pipe for sending, one pipe for receiving
@@ -157,7 +159,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTI4NzQyNSwzNzA0MzgzMDgsLTc4NT
-A2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAx
-NywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbMTAxNDMyMzk1NywtMzkxMjg3NDI1LDM3MD
+QzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3
+OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
 -->
