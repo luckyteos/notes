@@ -65,7 +65,7 @@ Occurs when:
 
 ![enter image description here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg)
 
-**Context Switching:** Switch from executing 
+**Context Switching:** Switch from executing threads in one process to threads in another process. The context or state of threads being switched out is saved in the registers
 
 ### Synchronization
 **Cooperation Problem:** Two threads attempt to access the same resource
@@ -165,7 +165,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjE5ODM3NCwtMzkxMjg3NDI1LDM3MD
-QzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3
-OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbNTM5NDc4NTk5LC0zOTEyODc0MjUsMzcwND
+M4MzA4LC03ODUwNjM3ODMsLTIyOTQyNjc0NCwxNjA1MjExNzc4
+LDE4NzQ3MjIwMTcsMTIxNDE4NDA3M119
 -->
