@@ -177,13 +177,17 @@ If a context switch occurs for example before the new value of variable x is sav
 **Loader:** Loads the PE image into the process's virtual memory, along with its associated resources (imports etc)
 
 ## Windows GUI Subsystem
+> Implemented through libraries user32.dll and GDI32.dll
+
 **WoW64 (Windows on Windows 64):** Allows running of 32 bit applications on 64 bit windows OS
-**Event Driven:** Windows based apps are driven 
+**Event Driven:** Windows based apps communicate through events
+
+**wndFunc**
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU0NjU5NiwxMjQ4ODA0NzEyLDUzOT
-Q3ODU5OSwtMzkxMjg3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgz
-LC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMT
-QxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbMzYxMDE1MzQsMTI0ODgwNDcxMiw1Mzk0Nz
+g1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4Mywt
+MjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MT
+g0MDczXX0=
 -->
