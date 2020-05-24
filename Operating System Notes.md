@@ -191,7 +191,7 @@ If a context switch occurs for example before the new value of variable x is sav
 
 **Special Permissions**
 * SeShutdown Privilege
-* SeDeb
+* SeDebug Privilege
 
 **Security Components**
 * SRM (Security Reference Monitor)
@@ -213,8 +213,8 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDA0OTE4NCwxMjQ4ODA0NzEyLDUzOT
-Q3ODU5OSwtMzkxMjg3NDI1LDM3MDQzODMwOCwtNzg1MDYzNzgz
-LC0yMjk0MjY3NDQsMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMT
-QxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbODUzNzQ0MDYxLDEyNDg4MDQ3MTIsNTM5ND
+c4NTk5LC0zOTEyODc0MjUsMzcwNDM4MzA4LC03ODUwNjM3ODMs
+LTIyOTQyNjc0NCwxNjA1MjExNzc4LDE4NzQ3MjIwMTcsMTIxND
+E4NDA3M119
 -->
