@@ -102,11 +102,15 @@ If a context switch occurs for example before the new value of variable x is sav
 	* If Event is signalled, any threads can access resource and vice versa
 	* Example: Clean a location - Events can be used to signal the status of different activities or tasks
 
+**Interlocked Operations:** I
+
 **More Waitable Objects**
 * Processes
 * Threads
 * File
-* 
+* Timer
+	* Example process: Task scheduler
+	
 ### Inter-process communication (IPC)
 * Named Pipes
 	* One pipe for sending, one pipe for receiving
@@ -159,7 +163,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDMyMzk1NywtMzkxMjg3NDI1LDM3MD
-QzODMwOCwtNzg1MDYzNzgzLC0yMjk0MjY3NDQsMTYwNTIxMTc3
-OCwxODc0NzIyMDE3LDEyMTQxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbLTE5NzE3MzU1OTYsLTM5MTI4NzQyNSwzNz
+A0MzgzMDgsLTc4NTA2Mzc4MywtMjI5NDI2NzQ0LDE2MDUyMTE3
+NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
 -->
