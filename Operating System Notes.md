@@ -91,8 +91,9 @@ Occurs when:
 				* Useful for:
 					* Updating a running program or service
 					* Malware running in a legitimate program importing libraries it depends on to 		function
+					* When program
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTIxMTc3OCwxODc0NzIyMDE3LDEyMT
-QxODQwNzNdfQ==
+eyJoaXN0b3J5IjpbLTIwNTg0NjM2MTYsMTYwNTIxMTc3OCwxOD
+c0NzIyMDE3LDEyMTQxODQwNzNdfQ==
 -->
