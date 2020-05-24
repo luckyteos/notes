@@ -77,7 +77,7 @@ Occurs when:
 		* close to base priority, usually varies from +2 to -2 
 		* Used to dynamically increase thread priority for example after a file read operation, where a process did not execute any instructions
 
-**Starving:** 
+**Starvation:** Thread has not been scheduled to run for a long time
 
 
 ### Synchronization
@@ -178,7 +178,7 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDY2NjgwNiw1Mzk0Nzg1OTksLTM5MT
+eyJoaXN0b3J5IjpbMTI0ODgwNDcxMiw1Mzk0Nzg1OTksLTM5MT
 I4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4MywtMjI5NDI2NzQ0
 LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
 -->
