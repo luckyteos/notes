@@ -93,13 +93,13 @@ Occurs when:
 					* Malware running in a legitimate program importing libraries it depends on to 		function
 					* When program that does not usually need a window needs to show a window in a particular situation
 					
-**Linker: **
+**Linker:** Creates the headers of the image file such as DOS Header, NT Header, Section Header
 
 ### Loading
 **Loader:** Loads the PE image into the process's virtual memory, along with its associated resources (imports etc)
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTYzODg3OSwtMjI5NDI2NzQ0LDE2MD
-UyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbLTE1NDk2MTE1MzMsLTIyOTQyNjc0NCwxNj
+A1MjExNzc4LDE4NzQ3MjIwMTcsMTIxNDE4NDA3M119
 -->
