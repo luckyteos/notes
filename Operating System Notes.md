@@ -17,12 +17,12 @@
 
 **Virtual Memory:** Concept of each process having their own separate memory space, which is independent of where the memory allocated for the process is actually stored on the main memory (RAM)
 
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Virtual_address_space_and_physical_address_space_relationship.svg/1200px-Virtual_address_space_and_physical_address_space_relationship.svg.png =500x450)
+
 **Page:** Smallest unit of data in memory. Can be given privileges like No permission/R/RW
 
 **Page Table:** Contains the mappings of virtual addresses used in a process, to the actual addresses used in the main memory
 > Every process has its own page table. Information about page tables for each process are stored in the CR3 register
-
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Virtual_address_space_and_physical_address_space_relationship.svg/1200px-Virtual_address_space_and_physical_address_space_relationship.svg.png =500x450)
 
 **Page Fault:** 
 Occurs when:
@@ -224,9 +224,10 @@ If a context switch occurs for example before the new value of variable x is sav
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NTA2OTQ2LC02ODYxNzUzMDksOTM2MT
-A1OTQzLC0yOTM2NzgxNTIsLTcxNTc4MTYxNSwtMjAxMDg0MjI3
-Nyw4NTM3NDQwNjEsMTI0ODgwNDcxMiw1Mzk0Nzg1OTksLTM5MT
-I4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4MywtMjI5NDI2NzQ0
-LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMjE0MTg0MDczXX0=
+eyJoaXN0b3J5IjpbLTExODg0MDg1NzQsODM3NTA2OTQ2LC02OD
+YxNzUzMDksOTM2MTA1OTQzLC0yOTM2NzgxNTIsLTcxNTc4MTYx
+NSwtMjAxMDg0MjI3Nyw4NTM3NDQwNjEsMTI0ODgwNDcxMiw1Mz
+k0Nzg1OTksLTM5MTI4NzQyNSwzNzA0MzgzMDgsLTc4NTA2Mzc4
+MywtMjI5NDI2NzQ0LDE2MDUyMTE3NzgsMTg3NDcyMjAxNywxMj
+E0MTg0MDczXX0=
 -->
